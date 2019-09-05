@@ -1,1 +1,1 @@
-"# Algorithm-training" 
+알고리즘 공부한 소스코드입니다~
